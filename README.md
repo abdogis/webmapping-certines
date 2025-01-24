@@ -1,5 +1,6 @@
 # webmapping-certines
-https://github.com/user-attachments/assets/4abf9361-ba92-4a5e-af64-fa71156e4284
+<video src="https://github.com/user-attachments/assets/4abf9361-ba92-4a5e-af64-fa71156e4284" width="300" />
+
 # EigenEdge
 The **EigenEdge** MATLAB package contains open source implementations 
 of methods for working with eigenvalue distributions of large random matrices. 
