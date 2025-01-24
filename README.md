@@ -42,3 +42,4 @@ The author is very grateful to the following indivuals for their invaluable advi
 A typical example eigenvalue distribution computed with this software looks as follows: 
 ![Image](https://github.com/user-attachments/assets/5007b498-d8e9-4a8d-9c75-b7c7834c6a9a)
 This example is explained in detail in the readme at `\Readme\readme.pdf`. The input is the distribution of population eigenvalues, which is a mixture of point masses and a uniform density. The output is the distribution of sample eigenvalues, which has a smooth density on several disjoint intervals. There is a close match with a Monte Carlo simulation.
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
